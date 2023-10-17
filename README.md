@@ -5,3 +5,5 @@ This repository houses the jupyter notebook I created and data necessary to run 
 DTSA_5509_Final.ipynb contains the code for the analysis and modeling
 
 Data located here: https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik
+
+Citation: Rice (Cammeo and Osmancik). (2019). UCI Machine Learning Repository. https://doi.org/10.24432/C5MW4Z.
